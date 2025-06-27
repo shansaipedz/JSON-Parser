@@ -24,7 +24,7 @@ The project provides hands-on experience in handling JSON files, making it a gre
 
 * Java SE
 * org.json or similar JSON libraries (`org.json.JSONObject`, etc.)
-* NetBeans or compatible Java IDE
+* NetBeans or a compatible Java IDE
 
 ## Learning Objectives
 
